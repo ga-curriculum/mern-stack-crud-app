@@ -16,6 +16,7 @@ cd [tktk-module-name]
 ```
 
 <!-- Other setup instructions here -->
+This app should be well bootstrapped by the inclusion of the auth material. The starter code, essentially, is the solution code for Express/React Auth with JWT.
 
 
 Open the contents of the directory in VSCode:
